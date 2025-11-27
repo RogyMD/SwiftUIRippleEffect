@@ -60,8 +60,8 @@ struct ContentView: View {
 
 ### Requirements
 
-•	iOS 17.0 or later
-•	SwiftUI
+-	iOS 17.0 or later
+-	SwiftUI
 
 ---
 
