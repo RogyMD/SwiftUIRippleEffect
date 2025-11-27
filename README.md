@@ -58,20 +58,20 @@ struct ContentView: View {
 
 ---
 
-Requirements
+### Requirements
 	•	iOS 17.0 or later
 	•	SwiftUI
 
 ---
 
-Contribution
+### Contribution
 
 Issues and pull requests are welcome!
 If you’d like to improve the ripple curve, performance, or add new presets, feel free to open a discussion.
 
 ---
 
-License
+#### License
 
 MIT License
 
