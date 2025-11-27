@@ -26,7 +26,9 @@ Designed for buttons, taps, state changes, or moments where you want your UI to 
 
 Add this URL to **File → Add Packages…** in Xcode:
 
+```
 https://github.com/RogyMD/SwiftUIRippleEffect.git
+```
 
 ---
 
