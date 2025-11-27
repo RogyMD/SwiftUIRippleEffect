@@ -12,6 +12,8 @@ Designed for buttons, taps, state changes, or moments where you want your UI to 
 - Works with any SwiftUI view  
 - Simple one-line integration
 
+**Note:** Inspired by WWDC24 session 10151 — [Create custom visual effects in SwiftUI](https://developer.apple.com/wwdc24/10151/).
+
 ---
 
 ## Demo
