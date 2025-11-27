@@ -3,7 +3,7 @@
 #include <SwiftUI/SwiftUI.h>
 using namespace metal;
 
-#if TARGET_OS_IPHONE
+#if TARGET_OS_IPHONE && !TARGET_OS_WATCH
 
 [[ stitchable ]] half4 Ripple(
     float2 position,
